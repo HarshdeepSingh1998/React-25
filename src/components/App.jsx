@@ -34,7 +34,7 @@ function App() {
         />
         <button
           type="submit"
-          // onClick={handleClick}
+          onClick={handleClick}
         >
           Submit
         </button>
